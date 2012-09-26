@@ -5,8 +5,8 @@
   </formats>
   <includeBaseDirectory>false</includeBaseDirectory>
   <fileSets>
-    <!-- the war files -->
-    <fileSet>
+   <!-- the war files -->
+   <fileSet>
       <directory>web/target</directory>
       <outputDirectory/>
       <includes>
